@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Other
+include
+lib
+.DS_STORE
+utils

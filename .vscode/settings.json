@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "*.md": true,
+        "LICENSE": true,
+        ".gitignore": true,
+        "include": true,
+        "lib": true,
+        "utils": true
+    }
+}

@@ -1,0 +1,2 @@
+default:
+	time g++ *.cpp source/*.cpp -include source/PCH.hpp -Wall -fexceptions -std=c++17 -L include/ -framework CoreVideo -framework IOKit -framework Cocoa -framework GLUT -framework OpenGL lib/libraylib.a -o utils && ./utils
